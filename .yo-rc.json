@@ -1,0 +1,11 @@
+{
+  "generator-springboot": {
+    "appName": "personalized-data",
+    "packageName": "com.niq.shoppers.data",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "none",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "com/niq/shoppers/data"
+  }
+}
